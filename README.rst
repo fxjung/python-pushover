@@ -1,7 +1,11 @@
 ``python-pushover`` aims at providing comprehensive Python bindings for the API
 of the `Pushover Notification Service`_ as documented here__.
 
+
+Forked from  Thibaut Horel's `original version`_.
+
 .. _Pushover Notification Service: https://pushover.net/ 
+.. _original version: https://github.com/Thibauth/python-pushover
 .. __: https://pushover.net/api
 
 Installation
